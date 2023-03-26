@@ -1,4 +1,4 @@
-# This is where it all begins
+# Data
 ## The Data Science
 ### By Raman Dhanda
 
